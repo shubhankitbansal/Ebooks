@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ebooks</string>
+    <string name="instructions">Enter a book name to find out who wrote the book. </string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Book Title</string>
+    <string name="no_results">no result</string>
+    <string name="loading">loading...</string>
+    <string name="no_search_term">No Search Term</string>
+    <string name="no_network">No Network</string>
+</resources>
